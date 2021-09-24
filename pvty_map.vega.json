@@ -33,7 +33,8 @@
   "encoding": {
     "color": {
       "field": "2019",
-      "type": "quantitative"
+      "type": "quantitative",
+      "title":"HDI"
     },
     "tooltip": [
       {
